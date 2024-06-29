@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
+#include <stdlib.h>
 
 static size_t	ft_getstart(const char *s1, const char *set);
 static size_t	ft_getend(const char *s1, const char *set);

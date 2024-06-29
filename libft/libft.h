@@ -32,7 +32,7 @@ typedef struct s_list
 }					t_list;
 
 int					ft_atoi(const char *str);
-unsigned int 		ft_atoh(const char *hex_str);
+unsigned int		ft_atoh(const char *hex_str);
 void				ft_bzero(void *s, size_t n);
 void				*ft_calloc(size_t count, size_t size);
 int					ft_isalnum(int c);

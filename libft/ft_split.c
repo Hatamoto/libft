@@ -79,8 +79,8 @@ static char	*make_word(const char *s, char c)
 
 static char	**alloc_wlen(const char *s, char c, char **split_str)
 {
-	int		index;
-	int		i;
+	int	index;
+	int	i;
 
 	i = 0;
 	index = -1;
@@ -105,7 +105,7 @@ static char	**alloc_wlen(const char *s, char c, char **split_str)
 	return (split_str);
 }
 
-static void	free_split(char	**split_str, int index)
+static void	free_split(char **split_str, int index)
 {
 	while (index > 0)
 	{
