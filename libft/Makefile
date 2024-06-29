@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mburakow <mburakow@student.42.fr>          +#+  +:+       +#+         #
+#    By: mburakow <mburakow@student.hive.fi>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/10/28 20:09:48 by mburakow          #+#    #+#              #
-#    Updated: 2023/12/18 13:53:38 by mburakow         ###   ########.fr        #
+#    Updated: 2024/06/29 10:47:45 by mburakow         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,7 +24,7 @@ SOURCES =	ft_atoi.c		ft_bzero.c		ft_calloc.c		ft_isalnum.c \
 			ft_strdup.c		ft_striteri.c	ft_strjoin.c	ft_strlcat.c \
 			ft_strlcpy.c	ft_strlen.c		ft_strmapi.c	ft_strncmp.c \
 			ft_strnstr.c	ft_strrchr.c	ft_strtrim.c	ft_substr.c \
-			ft_tolower.c	ft_toupper.c
+			ft_tolower.c	ft_toupper.c	ft_atoh.c
 
 BSOURCES = 	ft_lstadd_back_bonus.c		ft_lstadd_front_bonus.c \
 			ft_lstclear_bonus.c			ft_lstdelone_bonus.c \
