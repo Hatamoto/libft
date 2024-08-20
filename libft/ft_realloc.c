@@ -6,11 +6,10 @@
 /*   By: mburakow <mburakow@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/20 16:22:16 by mburakow          #+#    #+#             */
-/*   Updated: 2024/08/20 18:22:26 by mburakow         ###   ########.fr       */
+/*   Updated: 2024/08/20 18:29:24 by mburakow         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <cub3d.h>
 #include <stdlib.h>
 
 void *ft_realloc(void *ptr, size_t new_size) 
