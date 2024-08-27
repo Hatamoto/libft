@@ -6,7 +6,7 @@
 /*   By: mburakow <mburakow@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/26 16:52:31 by mburakow          #+#    #+#             */
-/*   Updated: 2024/08/20 18:27:43 by mburakow         ###   ########.fr       */
+/*   Updated: 2024/08/27 15:55:18 by mburakow         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,6 +39,7 @@ int					ft_isalnum(int c);
 int					ft_isalpha(int c);
 int					ft_isascii(int c);
 int					ft_isdigit(int c);
+int					is_equal(float a, float b);
 int					ft_isprint(int c);
 char				*ft_itoa(int n);
 void				ft_lstadd_back(t_list **lst, t_list *new);
