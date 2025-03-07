@@ -1,5 +1,5 @@
 
-Welcome to **Libft** – a fun and practical rework of many standard C library functions. This project gave me a hands-on opportunity to really understand how C works at its core, from memory management to pointer magic. Plus, it’s a cool way to build a library that you can reuse in future projects!
+Welcome to **Libft** – a fun and practical rework of many standard C library functions. This project was the first one in 42 curriculum in Hive Helsinki. It gave me a hands-on opportunity to really understand how C works at its core, from memory management to pointer magic. Plus, it’s a cool way to build a library that you can reuse in future projects!
 
 ---
 
