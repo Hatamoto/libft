@@ -84,7 +84,7 @@ If you’re up for even more fun, try these out:
 
 ## Why This Project Matters
 
-Recreating these functions isn’t just about reusing code—it’s a fantastic learning experience:
+Recreating these functions isn’t just about rewriting basic level library code — it’s a fantastic learning experience:
 
 - **Understanding Memory:**  
   Every call to `malloc()` or `free()` helped me visualize how dynamic memory allocation works in C. No more mysterious segfaults!
