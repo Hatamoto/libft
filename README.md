@@ -9,8 +9,6 @@ Welcome to **Libft** – a fun and practical rework of many standard C library f
 - [What's Inside](#whats-inside)
 - [Why This Project Matters](#why-this-project-matters)
 - [Usage](#usage)
-- [Fun Extras](#fun-extras)
-- [License](#license)
 
 ---
 
